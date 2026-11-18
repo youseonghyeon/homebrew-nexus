@@ -1,6 +1,6 @@
 cask "nexus" do
-  version "1.5.0"
-  sha256 "e131288da408b6748331e87d234a5be49f69aebb86df1c175f2bc9394dd6e769"
+  version "1.5.1"
+  sha256 "b7a9995a207b661663b6a84f19305e6835b37031c0e5efda14832211a7cd7c6b"
 
   url "https://github.com/youseonghyeon/nexus/releases/download/v#{version}/Nexus-#{version}.zip"
   name "Nexus"
